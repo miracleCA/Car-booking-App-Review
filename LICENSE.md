@@ -111,5 +111,3 @@
 **12. No Waiver**
 
 12.1 No waiver of any breach of this Agreement shall be deemed a waiver of any subsequent breach.
-
-**BY DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, LICENSEE AGREES TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT.**
